@@ -7,7 +7,7 @@
 <br>
 
 :paw_prints: **Learning**<br>
-`I/O Pychology`, `Social Pychology`, `HR`
+`I/O Pychology`, `Social Pychology`
 <br><br>
 ![Python](https://img.shields.io/badge/-Python-5981c2?logo=Python&logoColor=white&labelColor=5981c2)
 ![FLUTTER](https://img.shields.io/badge/-FLUTTER-03c0ff?logo=FLUTTER&logoColor=white&labelColor=03c0ff)
