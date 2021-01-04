@@ -8,7 +8,7 @@
 
 :paw_prints: **Learning**<br><br>
 `I/O Pychology`, `Social Pychology`, `HR`
-<br><br>
+<br>
 ![Python](https://img.shields.io/badge/-Python-5981c2?logo=Python&logoColor=white&labelColor=5981c2)
 ![FLUTTER](https://img.shields.io/badge/-FLUTTER-03c0ff?logo=FLUTTER&logoColor=white&labelColor=03c0ff)
 ![JAVA](https://img.shields.io/badge/-JAVA-ff5d57?logo=JAVA&logoColor=white&labelColor=ff5d57)
@@ -31,7 +31,6 @@
 [![TIL](https://img.shields.io/badge/-TIL-007399?logo=GitHub&logoColor=white&labelColor=007399)](https://github.com/hadan-HwH/TIL)
 [![TISTORY](https://img.shields.io/badge/-TISTORY-a86eff)](https://spaceunderthe.tistory.com/)
 
-<br><br>
 - :school_satchel:I'm double majoring in `Psycholoty` and `Software`.
 - :sunglasses: I love Psychology about `Industry and Organizaion`and `Social`.
 - :dash: Run `Blog` and `Tistory`, and write `TIL`
