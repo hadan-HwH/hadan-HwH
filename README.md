@@ -17,7 +17,6 @@
 
 
 <br>
-
 💻 **Programming with**<br>
 ![Github](https://img.shields.io/badge/-Github-black?logo=GitHub&logoColor=white&labelColor=black)
 ![Notion](https://img.shields.io/badge/-Notion-grey?logo=Notion&logoColor=white&labelColor=grey)
@@ -25,7 +24,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-indigo?logo=Windows&logoColor=white&labelColor=indigo)
 
 <br>
-
 🌍 **Working on**<br>
 [![BLOG](https://img.shields.io/badge/-BLOG-79b3a4?logo=GitHub&logoColor=white&labelColor=79b3a4)](https://hadan-hwh.github.io)
 [![TIL](https://img.shields.io/badge/-TIL-007399?logo=GitHub&logoColor=white&labelColor=007399)](https://github.com/hadan-HwH/TIL)
