@@ -31,7 +31,7 @@
 [![TIL](https://img.shields.io/badge/-TIL-007399?logo=GitHub&logoColor=white&labelColor=007399)](https://github.com/hadan-HwH/TIL)
 [![TISTORY](https://img.shields.io/badge/-TISTORY-a86eff)](https://spaceunderthe.tistory.com/)
 
-- :school_satchel:I'm double majoring in `Psychology` and `Software`.
+- :school_satchel: I'm double majoring in `Psychology` and `Software`.
 - :sunglasses: I love Psychology about `Industry and Organizaion`and `Social`.
 - :dash: Run `Blog` and `Tistory`, and write `TIL`
-- :egg:I'm working on start-up team [`coated Egg`](https://www.innerscent.net)
+- :egg: I'm working on start-up team [`coated Egg`](https://www.innerscent.net)
