@@ -12,9 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-5981c2?logo=Python&logoColor=white&labelColor=5981c2)
 ![FLUTTER](https://img.shields.io/badge/-FLUTTER-03c0ff?logo=FLUTTER&logoColor=white&labelColor=03c0ff)
 ![JAVA](https://img.shields.io/badge/-JAVA-ff5d57?logo=JAVA&logoColor=white&labelColor=ff5d57)
-![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-ff8357)
-![C language](https://img.shields.io/badge/-C%20language-lightgrey?logo=C&logoColor=white&labelColor=lightgrey)
-
 
 <br>
 
