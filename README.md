@@ -26,5 +26,4 @@
 
 - :school_satchel: I'm double majoring in `Psychology` and `Software`.
 - :sunglasses: I love Psychology about `Industry and Organizaion`and `Social`.
-- :dash: Run `Blog` and `Tistory`, and write `TIL`
-- :egg: I'm working on start-up team [`coated Egg`](https://www.innerscent.net)
+
