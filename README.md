@@ -11,7 +11,7 @@
 
 | | |
 |---|---|
-| **[product-planning-ir](https://github.com/hadan-HwH/product-planning-ir)**<br/>`Python` `YAML Schema` `Claude Skills` | 기획 지식을 문서가 아니라 **타입 있는 atom 그래프(SSOT)**로 관리하고, 사람이 읽는 문서는 거기서 컴파일합니다. 모든 변경은 Proposal → 검증 → merge 경로로만 들어가고, 모르는 건 지어내지 않고 `OpenQuestion`으로 남깁니다. 결정을 이벤트 스트림으로 기록하고 "지금 유효한 결정"을 reducer로 계산합니다. 덕분에 이미 뒤집힌 결정이 현재 결정처럼 섞이는 RAG의 문제를 막습니다(합성 픽스처에서 오염률 0.80 → 0.00). |
+| **[product-planning-ir](https://github.com/hadan-HwH/product-planning-ir)**<br/>`Python` `YAML Schema` `Claude Skills` | 기획 지식을 문서가 아니라 <b>타입 있는 atom 그래프(SSOT)</b>로 관리하고, 사람이 읽는 문서는 거기서 컴파일합니다. 모든 변경은 Proposal → 검증 → merge 경로로만 들어가고, 모르는 건 지어내지 않고 `OpenQuestion`으로 남깁니다. 결정을 이벤트 스트림으로 기록하고 "지금 유효한 결정"을 reducer로 계산합니다. 덕분에 이미 뒤집힌 결정이 현재 결정처럼 섞이는 RAG의 문제를 막습니다(합성 픽스처에서 오염률 0.80 → 0.00). |
 | **[polly-bot](https://github.com/hadan-HwH/polly-bot)**<br/>`Python` `FastAPI` `React` `TypeScript` | Polymarket 다중 선택 이벤트에서 **N개 아웃컴을 한 세트로 묶어** 차익을 계산하는 탐지 엔진과 실시간 대시보드입니다. 기존 오픈소스는 YES/NO 2개짜리 마켓만 봤는데, 이 엔진은 k개 아웃컴 전체와 NegRisk 변환(NO 1개 = 나머지 k−1개의 YES)까지 계산합니다. |
 
 #### How I work
